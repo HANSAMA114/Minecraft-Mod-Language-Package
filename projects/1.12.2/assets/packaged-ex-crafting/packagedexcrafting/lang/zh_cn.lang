@@ -1,0 +1,17 @@
+ity.myth:dummy.name=Dummy
+entity.myth:door.name=Door
+entity.myth:npc.name=Scientist
+entity.myth:mythicus.name=Mythicus
+entity.myth:tutorial.name=§dScientist§r
+entity.myth:dummy2.name=Dummy2
+entity.myth:barrier.name=Barrier
+entity.myth:portal.name=§dScientist§r
+
+item.spawn_egg.entity.myth:dummy.name=Dummy
+item.spawn_egg.entity.myth:door.name=Door
+item.spawn_egg.entity.myth:npc.name=Scientist
+item.spawn_egg.entity.myth:mythicus.name=Mythicus
+item.spawn_egg.entity.myth:tutorial.name=Start
+item.spawn_egg.entity.myth:dummy2.name=Dummy2
+item.spawn_egg.entity.myth:barrier.name=Barrier
+item.spawn_egg.entity.myth:portal.name=Scientist
